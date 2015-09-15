@@ -1,18 +1,19 @@
 {
-  "name": "soundasleep-bootstrap-datetimepicker-sass",
-  "version": "3.0.3",
+  "name": "bootstrap-datetimepicker-sass",
+  "version": "3.0.4",
   "main": [
+    "scs/sass/bootstrap-datetimepicker.scss",
     "build/css/bootstrap-datetimepicker.min.css",
     "build/js/bootstrap-datetimepicker.min.js"
   ],
   "dependencies": {
     "jquery": ">=1.8.3",
-    "bootstrap-sass-official": ">= 3.0",
+    "bootstrap-sass": ">= 3.0",
     "moment": ">=2.4.0"
   },
-  "homepage": "https://github.com/soundasleep/bootstrap-datetimepicker-sass",
+  "homepage": "https://github.com/PaulUpson/bootstrap-datetimepicker-sass",
   "authors": [
-    "soundasleep"
+    "PaulUpson"
   ],
   "description": "bootstrap3 datetimepicker using SASS",
   "keywords": [
